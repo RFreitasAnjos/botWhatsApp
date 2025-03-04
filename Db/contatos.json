@@ -1,0 +1,335 @@
+[
+      {
+        "Id": "558183392788@c.us",
+        "Fiscal": "André Cezar Belarmino Soares",
+        "Gerência": "DVFI 0405",
+        "CPF": null,
+        "Contato": "(81) 98339-2788",
+        "Placa": "RZK4J60",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558197030031@c.us",
+        "Fiscal": "Artur João de Santana Neto",
+        "Gerência": "DVFI 0405",
+        "CPF": null,
+        "Contato": "(81) 99703-0031",
+        "Placa": "RZK5D50",
+        "Modelo": "BROS"
+      },
+      {
+        "Id":"558195180016@c.us",
+        "Fiscal": "Bruno Fernando da Silva",
+        "Gerência": "DVFI 0405",
+        "CPF": null,
+        "Contato": "(81) 99518-0016",
+        "Placa": "RZJ5J78",
+        "Modelo": "BROS"
+      },
+      {
+        "Id":"558196440052@c.us",
+        "Fiscal": "Carlos Henrique da Silva Carão",
+        "Gerência": "STFI 0203",
+        "CPF": null,
+        "Contato": "(81) 99644-0052",
+        "Placa": "RZK5C80",
+        "Modelo": "BROS"
+      },
+      {
+        "Id":"558196440053@c.us",
+        "Fiscal": "Temporário",
+        "Gerência": "STFI 0203",
+        "CPF": null,
+        "Contato": "(81) 99644-0052",
+        "Placa": "RZK5C80",
+        "Modelo": "BROS"
+      },
+      {
+        "Id":"558182125983@c.us",
+        "Fiscal": "César Augusto de Souza Oliveira",
+        "Gerência": "FÉRIAS",
+        "CPF": null,
+        "Contato": "(81) 98212-5983",
+        "Placa": "RZK5D90",
+        "Modelo": "BROS"
+      },
+      {
+        "Id":"558196440047@c.us",
+        "Fiscal": "Cristiano José da Silva Galdino",
+        "Gerência": "RCC",
+        "CPF": null,
+        "Contato": "(81) 99644-0047",
+        "Placa": "RZH2B99",
+        "Modelo": "BROS"
+      },
+      {
+        "Id":"558181586700@c.us",
+        "Fiscal": "Diogo Alves Campelo",
+        "Gerência": "STFI 0203",
+        "CPF": null,
+        "Contato": "(81) 98158-6700",
+        "Placa": "RZK5B90",
+        "Modelo": "BROS"
+      },
+      {
+        "Id":"558197030013@c.us",
+        "Fiscal": "Edgilson Barbosa da Cunha",
+        "Gerência": "RCC",
+        "CPF": null,
+        "Contato": "(81) 99703-0013",
+        "Placa": "RZJ6A48",
+        "Modelo": "BROS"
+      },
+      {
+        "Id":"558182058246@c.us",
+        "Fiscal": "Edmilson Sergio da Silva Junior",
+        "Gerência": "STFI 0203",
+        "CPF": null,
+        "Contato": "(81) 98205-8246",
+        "Placa": "RZK5E40",
+        "Modelo": "BROS"
+      },
+      {
+        "Id":"558181961539@c.us",
+        "Fiscal": "Everton Lima de Souza",
+        "Gerência": "RCC",
+        "CPF": null,
+        "Contato": "(81) 98196-1539",
+        "Placa": "SNX6C05",
+        "Modelo": "CG"
+      },
+       {
+        "Id":"558181785738@c.us",
+        "Fiscal": "Ewerton Carlos da Silva Carvalho",
+        "Gerência": "RCC",
+        "CPF": null,
+        "Contato": "(81) 98178-5738",
+        "Placa": "SNX5J25",
+        "Modelo": "CG"
+      },
+      {
+        "Id":"558196440095@c.us",
+        "Fiscal": "Fabiano José da Conceição",
+        "Gerência": "STFI 0203",
+        "CPF": null,
+        "Contato": "(81) 99644-0095",
+        "Placa": "RZJ5E38",
+        "Modelo": "BROS"
+      },
+      {
+        "Id":"558181511732@c.us",
+        "Fiscal": "Fabio Maciel da Silva",
+        "Gerência": "RCC",
+        "CPF": null,
+        "Contato": "(81) 98151-1732",
+        "Placa": "RZK5D10",
+        "Modelo": "BROS"
+      },
+      {
+        "Id":"558196800316@c.us",
+        "Fiscal": "Geraldo José da Silva Júnior",
+        "Gerência": "STFI 06",
+        "CPF": null,
+        "Contato": "(81) 99680-0316",
+        "Placa": "RZH2B29",
+        "Modelo": "BROS"
+      },
+      {
+        "Id":"558196440055@c.us",
+        "Fiscal": "Gutemberg Aragão Campos",
+        "Gerência": "DVFI 0405",
+        "CPF": null,
+        "Contato": "(81) 99644-0055",
+        "Placa": "RZJ5J18",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558196440074@c.us",
+        "Fiscal": "Ivson José Santos da Silva",
+        "Gerência": "STFI 01",
+        "CPF": null,
+        "Contato": "(81) 99644-0074",
+        "Placa": "RZH1H09",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558181812119@c.us",
+        "Fiscal": "Jaedson Tenório Eufrásio da Silva",
+        "Gerência": "STFI 0203",
+        "CPF": null,
+        "Contato": "(81) 98181-2119",
+        "Placa": "RZJ5H78",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558196440099@c.us",
+        "Fiscal": "Jonathan Martins da Silva",
+        "Gerência": "RCC",
+        "CPF": null,
+        "Contato": "(81) 99644-0099",
+        "Placa": "SNX6B65",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558181291578@c.us",
+        "Fiscal": "Leandro Cavalcante da Rocha",
+        "Gerência": "DVFI 0405",
+        "CPF": null,
+        "Contato": "(81) 98129-1578",
+        "Placa": "RZJ5F78",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558182394888@c.us",
+        "Fiscal": "Lucas Miranda Alves do Monte",
+        "Gerência": "STFI 0203",
+        "CPF": null,
+        "Contato": "(81) 98239-4888",
+        "Placa": "RZJ5G48",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558196440040@c.us",
+        "Fiscal": "Lucas Vinícius Pereira da Silva",
+        "Gerência": "DVFI 0405",
+        "CPF": null,
+        "Contato": "(81) 99644-0040",
+        "Placa": "RZH2B79",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558199100019@c.us",
+        "Fiscal": "Luciano Gouveia Almeida",
+        "Gerência": "Sem Gerência",
+        "CPF": null,
+        "Contato": "(81) 99910-0019",
+        "Placa": "------",
+        "Modelo": "----"
+      },
+      {
+        "Id": "558196440069@c.us",
+        "Fiscal": "Luciano Vitorio de Oliveira",
+        "Gerência": "STFI 01",
+        "CPF": null,
+        "Contato": "(81) 99644-0069",
+        "Placa": "RZJ5G18",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558196440071@c.us",
+        "Fiscal": "Manoel Marques da Silva Neto",
+        "Gerência": "STFI 06",
+        "CPF": null,
+        "Contato": "(81) 99644-0071",
+        "Placa": "RZH2A29",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558196440087@c.us",
+        "Fiscal": "Matheus Lucas Santos da Silva",
+        "Gerência": "STFI 0203",
+        "CPF": null,
+        "Contato": "(81) 99644-0087",
+        "Placa": "RZJ5G98",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558196440042@c.us",
+        "Fiscal": "Matheus Santos Silva",
+        "Gerência": "STFI 06",
+        "CPF": null,
+        "Contato": "(81) 99644-0042",
+        "Placa": "RZK4I30",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558182231511@c.us",
+        "Fiscal": "Maxymylyano Araújo Félix Vieira Santos",
+        "Gerência": "STFI 0203",
+        "CPF": null,
+        "Contato": "(81) 98223-1511",
+        "Placa": "RZH2B49",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558181690780@c.us",
+        "Fiscal": "Maykon Douglas Lima de Araújo",
+        "Gerência": "DVFI 0405",
+        "CPF": null,
+        "Contato": "(81) 98169-0780",
+        "Placa": "RZK5B20",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558181336903@c.us",
+        "Fiscal": "Mesaque Francisco dos Santos",
+        "Gerência": "DVFI 0405",
+        "CPF": null,
+        "Contato": "(81) 98133-6903",
+        "Placa": "RZJ6A68",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558181269353@c.us",
+        "Fiscal": "Osvaldo Ivo do Nascimento",
+        "Gerência": "STFI 06",
+        "CPF": null,
+        "Contato": "(81) 98126-9353",
+        "Placa": "RZH2A89",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558181574096@c.us",
+        "Fiscal": "Robson da Paz Tenório",
+        "Gerência": "STFI 0203",
+        "CPF": null,
+        "Contato": "(81) 98157-4096",
+        "Placa": "RZV5H40",
+        "Modelo": "CG"
+      },
+      {
+        "Id": "558196440093@c.us",
+        "Fiscal": "Rodolpho Máximo dos Santos",
+        "Gerência": "STFI 0203",
+        "CPF": null,
+        "Contato": "(81) 99644-0093",
+        "Placa": "RZK5A10",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558182223349@c.us",
+        "Fiscal": "Rodrigo Felipe da Silva Cavalcanti",
+        "Gerência": "STFI 06",
+        "CPF": null,
+        "Contato": "(81) 98222-3349",
+        "Placa": "RZK5B60",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558196440090@c.us",
+        "Fiscal": "Tarcisio Silva Nascimento",
+        "Gerência": "STFI 0203",
+        "CPF": null,
+        "Contato": "(81) 99644-0090",
+        "Placa": "RZH2C29",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558199100025@c.us",
+        "Fiscal": "Thayson Tavares dos Santos",
+        "Gerência": "RCC",
+        "CPF": null,
+        "Contato": "(81) 99910-0025",
+        "Placa": "RZJ5F48",
+        "Modelo": "BROS"
+      },
+      {
+        "Id": "558181633002@c.us",
+        "Fiscal": "Yago Robson Santos Lins",
+        "Gerência": "STFI 06",
+        "CPF": null,
+        "Contato": "(81) 98163-3002",
+        "Placa": "RZK5B80",
+        "Modelo": "BROS"
+      }
+]
