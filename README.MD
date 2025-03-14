@@ -2,22 +2,22 @@
 
 ## Descrição
 
-O **WhatsApp Chatbot** é um software automatizado que permite a interação com usuários via WhatsApp, respondendo mensagens, executando comandos e integrando-se com sistemas externos. Ideal para atendimento ao cliente, suporte técnico e automação de processos comerciais.
+O **WhatsApp Chatbot** é um software automatizado que permite a interação com os fiscais de campo via WhatsApp, respondendo mensagens como suporte técnico, executando comandos e integrando-se com sistemas externos.
 
 ## Recursos
 
 - **Respostas automatizadas**: Responde mensagens com base em palavras-chave e contexto.
-- **Integração com APIs**: Conecta-se a sistemas externos para obter informações em tempo real.
+- **Integração com APIs**: Conecta-se a sistemas externos para enviar e obter informações em tempo real.
 - **Menu interativo**: Opções de menu para guiar o usuário em fluxos de conversa.
-- **Suporte a multimídia**: Envio e recebimento de imagens, áudio e documentos.
-- **Registro de interações**: Armazena histórico de conversas para análise posterior.
+- **Suporte a multimídia**: Envio e recebimento de áudios.
+<!-- **Registro de interações**: Armazena histórico de conversas para análise posterior.-->
 - **Suporte a Webhooks**: Permite integração com sistemas de terceiros.
 
 ## Tecnologias Utilizadas
 
 - **Node.js** para o backend.
 - **Express.js** para a API.
-- **MongoDB** ou **Firebase** para armazenamento de dados.
+<!-- - **MongoDB** para armazenamento de dados. -->
 - **WhatsApp Business API** ou **Venom-Bot** para interação com o WhatsApp.
 
 ## Instalação
@@ -48,9 +48,11 @@ O **WhatsApp Chatbot** é um software automatizado que permite a interação com
 
 - Inicie uma conversa com o bot enviando uma mensagem no WhatsApp.
 - Utilize comandos predefinidos, como:
-  - `!ajuda` - Lista os comandos disponíveis.
-  - `!status` - Mostra o status do sistema.
-  - `!pedido 1234` - Consulta o status de um pedido.
+  - `1` - Para solicitar crédito para o cartão combustível.
+  - `2` - Para solicitar link para preenchimento de solicitação de EPI.
+  - `3` - Reportar incidentes/acidentes ocorridos com os fiscais.
+  - `4` - Reportar problemas com SmartPhone.
+  - `5` - Atendimento Especializado.
 
 ## Contribuição
 
@@ -60,11 +62,7 @@ O **WhatsApp Chatbot** é um software automatizado que permite a interação com
 4. Envie seu branch (`git push origin minha-feature`).
 5. Abra um Pull Request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-
 ## Contato
 
-- **Email:** [contato@exemplo.com](mailto\:contato@exemplo.com)
-- **GitHub:** [seu-usuario](https://github.com/seu-usuario)
+- **Email:** [renan.freitas@tpfe.com.br](mailto\:contato@exemplo.com)
+- **GitHub:** [RFreitasAnjos](https://github.com/RFreitasAnjos)
