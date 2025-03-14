@@ -17,7 +17,7 @@ O **WhatsApp Chatbot** é um software automatizado que permite a interação com
 
 - **Node.js** para o backend.
 <-- Adicionar informações sobre a IA usada -->
-- **DeepSeek** para 
+<!-- - **DeepSeek** para --> 
 <!-- - **MongoDB** para armazenamento de dados. -->
 - **WhatsApp Business API** ou **Venom-Bot** para interação com o WhatsApp.
 
