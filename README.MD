@@ -16,11 +16,25 @@ O **WhatsApp Chatbot** é um software automatizado que permite a interação com
 ## Tecnologias Utilizadas
 
 - **Node.js** para o backend.
-- **Express.js** para a API.
+<-- Adicionar informações sobre a IA usada -->
+- **DeepSeek** para 
 <!-- - **MongoDB** para armazenamento de dados. -->
 - **WhatsApp Business API** ou **Venom-Bot** para interação com o WhatsApp.
 
-## Instalação
+## Instalação 
+1 - Step (IA)
+
+1. Instalação do LMStudio:
+   https://lmstudio.ai/
+
+2. Configuração:
+   Direcionar porta do servidor da IA.
+   Escolher versão da IA.
+   Integrar IA ao BackEnd. 
+
+#---------------------------------------------------------#
+
+2 - Step
 
 1. Clone este repositório:
    ```bash
