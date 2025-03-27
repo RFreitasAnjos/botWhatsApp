@@ -21,7 +21,7 @@ def countdays():
 
 # Define the keywords to detect
 def keywords():
-    return ["abastece", "combustível", "crédito", "reboque", "pane", "defeito", "EPI", "teste."]
+    return ["abastece", "combustível", "crédito", "reboque", "pane", "defeito", "EPI", "teste"]
 
 # Function to interpret text and detect keywords
 def interpreter_text(text):

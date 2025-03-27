@@ -1,6 +1,6 @@
 [
       {
-        "Id": "558183392788@c.us",
+        "Id": "558182392788@c.us",
         "Fiscal": "André Cezar Belarmino Soares",
         "Gerência": "DVFI 0405",
         "CPF": null,
@@ -47,7 +47,7 @@
       {
         "Id":"558182125983@c.us",
         "Fiscal": "César Augusto de Souza Oliveira",
-        "Gerência": "FÉRIAS",
+        "Gerência": "STFI 0405",
         "CPF": null,
         "Contato": "(81) 98212-5983",
         "Placa": "RZK5D90",
@@ -142,6 +142,15 @@
         "Contato": "(81) 99644-0055",
         "Placa": "RZJ5J18",
         "Modelo": "BROS"
+      },
+      {
+        "Id": "558196800184@c.us",
+        "Fiscal": "Italo Matheus Queiroz de Santana",
+        "Gerência": "RCC",
+        "CPF": null,
+        "Contato": "(81) 99680-0184",
+        "Placa": "SNX6A25",
+        "Modelo": "CG"
       },
       {
         "Id": "558196440074@c.us",
