@@ -74,12 +74,12 @@ Atenciosamente,
 
 TPF ENGENHARIA/CCO EMLURB
 
-  - **1**, Será disparado imediatamente um e-mail para o nosso setor de compras, solicitando a inserção de créditos no cartão combustível.
-  - **2**, Será enviado um link do nosso formulário para solicitação de EPI's.
-  - **3**, Será redirecionado para um submenu, lá você poderá nos informar a quilometragem da moto, solicitar o documento atualizado da moto ou notificar quebra ou mau funcionamento do veículo.
-  - **4**, Será direcionado para um suporte pre-moldado com alternativas para solucionar possíveis problemas com o Smartphone ou Aplicativos coorporativos.
-  - **5**, Irá receber as informações do colaborador, pre-definidas no contato e o que foi digitado pelo mesmo, com o fim de organizar as informações recebidas através de uma IA e sem seguida disparar um e-mail para o SESMT, com o fim de notificar com agilidade os incidentes e acidentes acontecidos na empresa.
-  - **6**, Será redirecinado para um submenu, onde será possível atender demandas referente a benefícios da empresa.
+  - **1** - Será disparado imediatamente um e-mail para o nosso setor de compras, solicitando a inserção de créditos no cartão combustível.
+  - **2** - Será enviado um link do nosso formulário para solicitação de EPI's.
+  - **3** - Será redirecionado para um submenu, lá você poderá nos informar a quilometragem da moto, solicitar o documento atualizado da moto ou notificar quebra ou mau funcionamento do veículo.
+  - **4** - Será direcionado para um suporte pre-moldado com alternativas para solucionar possíveis problemas com o Smartphone ou Aplicativos coorporativos.
+  - **5** - Irá receber as informações do colaborador, pre-definidas no contato e o que foi digitado pelo mesmo, com o fim de organizar as informações recebidas através de uma IA e sem seguida disparar um e-mail para o SESMT, com o fim de notificar com agilidade os incidentes e acidentes acontecidos na empresa.
+  - **6** - Será redirecinado para um submenu, onde será possível atender demandas referente a benefícios da empresa.
 
 ## Contribuição
 
